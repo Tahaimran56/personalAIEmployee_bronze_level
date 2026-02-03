@@ -1,0 +1,11 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "",
+  "baseFontSize": 16,
+  "showLineNumber": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showFrontmatter": true,
+  "showUnsupportedFiles": false,
+  "enabledPlugins": []
+}

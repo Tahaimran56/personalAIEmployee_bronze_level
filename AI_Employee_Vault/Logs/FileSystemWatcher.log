@@ -1,0 +1,9 @@
+2026-02-03 12:37:08,956 - FileSystemWatcher - INFO - Monitoring inbox at: Inbox
+2026-02-03 12:38:57,508 - FileSystemWatcher - INFO - Monitoring inbox at: Inbox
+2026-02-03 12:39:34,059 - FileSystemWatcher - INFO - Monitoring inbox at: Inbox
+2026-02-03 12:39:34,059 - FileSystemWatcher - INFO - Starting FileSystemWatcher
+2026-02-03 12:39:34,060 - FileSystemWatcher - INFO - Monitoring vault at: .
+2026-02-03 12:39:34,060 - FileSystemWatcher - INFO - Check interval: 10 seconds
+2026-02-03 12:39:34,061 - FileSystemWatcher - INFO - Found 1 new items to process
+2026-02-03 12:39:34,064 - FileSystemWatcher - INFO - Created action file for: test_document.txt
+2026-02-03 12:39:34,064 - FileSystemWatcher - INFO - Created action file: FILE_test_document_2026-02-03_12-39-34.md

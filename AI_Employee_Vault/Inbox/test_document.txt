@@ -1,0 +1,8 @@
+This is a test document to verify the File System Watcher is working correctly.
+
+Project: AI Employee Hackathon - Bronze Tier
+Date: 2026-02-03
+
+Task: Set up basic automation workflow
+
+This file should be detected by the watcher and automatically processed into an action item.
